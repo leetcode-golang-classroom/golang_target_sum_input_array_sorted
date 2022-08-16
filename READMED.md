@@ -73,10 +73,9 @@ Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We ret
 
 詳細作法如下圖
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7956aeec-0364-49e7-ad71-5375d074fd6c/Untitled.png)
+![](https://i.imgur.com/knDWRGn.png)
 
  
-
 ## 程式碼
 ```go
 package sol
