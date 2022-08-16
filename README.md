@@ -75,7 +75,7 @@ Explanation: The sum of -1 and 0 is -1. Therefore index1 = 1, index2 = 2. We ret
 
 ![](https://i.imgur.com/knDWRGn.png)
 
- 
+
 ## 程式碼
 ```go
 package sol
